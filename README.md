@@ -3,7 +3,9 @@ Hexadoku is an extension of the logic puzzle Sudoku. The objective in Hexadoku i
 cell containing a hexadecimal digit (a number in the set 0-F) while satisfying the following constraints:
 
 • Each number is unique in its row and column.
+
 • Each number is unique in its subgrid where a subgrid is defined by cutting the 16x16 grid into 16 non-overlapping 4x4 grids.
+
 • Each row, column, and subgrid have all numbers from a hexadecimal digit(0-F) present.
 
 A Hexadoku is defined as solved when all of its cells in the 16x16 grid are filled with numbers
