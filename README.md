@@ -1,4 +1,4 @@
-# Hexadoku
+# Hexadoku Solver
 Hexadoku is an extension of the logic puzzle Sudoku. The objective in Hexadoku is to fill a 16x16 gride of cells with each cell containing a hexadecimal digit (a number in the set 0-F) while satisfying the following constraints:
 
 • Each number is unique in its row and column.
